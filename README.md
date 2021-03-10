@@ -1,7 +1,5 @@
 # Ibai Fernández
 
----
-
 ## Personal Data
 
 - Name: Ibai Fernández
