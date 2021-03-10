@@ -1,18 +1,44 @@
-Ibai Fernández, 35, Spanish, living in Ecuador since 2014.
+# Ibai Fernández
 
-Academic background on communication, audiovisual production, acting, teaching and marketing.
+---
 
-Learning code since October 2020.
+## Personal Data
 
-Working at AGLAYA (https://aglaya.biz) and founder of Andariega (https://andariega.store) and Índika (https://indika.ec).
+- Name: Ibai Fernández
+- Age:35
+- Nationality: Spanish
+- Residence: Quito, Ecuador (since 2014)
 
-Wanna become a solid front-end developer.
+## Academic Background
 
-Reach me thru my email (info@ibaifernandez.com)
+- Audiovisual Communication
+- Intercultural Communication
+- Filmmaking
+- Acting
+- Marketing
+- Teaching
 
-Find me at Twitter, Facebook, and Instagram as @ibaifernandezec, at LinkedIn as ibai-fernandez, and at Discord as ibaifernandez.
+## Entrepreneurship
 
-<!---
-ibaifernandez/ibaifernandez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [AGLAYA](https://aglaya.biz), marketing agency
+- [Andariega](https://andariega.store), artisanal craftmanship
+- [Índika](https://indika.ec), most marvelous kombucha
+
+## Goals
+
+- Become a professional front-end developer
+- Traveling
+- Writing novels
+- Making movies
+
+## Contact
+
+- [Write me](mailto:info@ibaifernandez.com)
+
+## Social Media
+
+- [Twitter](https://twitter.com/IbaiFernandezEC)
+- [Facebook](https://twitter.com/IbaiFernandezEC)
+- [LinkedIn](https://twitter.com/IbaiFernandezEC)
+- [Instagram](https://twitter.com/IbaiFernandezEC)
+- [Youtube](https://www.youtube.com/channel/UCJQHmRknbrALtBupU4Is9pg)
