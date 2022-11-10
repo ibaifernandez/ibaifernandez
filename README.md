@@ -12,8 +12,10 @@
 - Audiovisual Communication
 - Intercultural Communication
 - Acting & Filmmaking
-- Marketing
+- Design Thinking
+- Marketing & Digital Marketing
 - Teaching
+- Spanish and Spanish Literature
 - Full-Stack Development
 
 ## Entrepreneurship
