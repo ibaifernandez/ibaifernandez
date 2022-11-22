@@ -28,7 +28,7 @@
 ## Goals
 
 - Become a professional full-stack developer
-- living a digital nomad's life
+- Living a digital nomad's life
 - Writing many things which are worth reading
 - Making full-length films (at least one!)
 
