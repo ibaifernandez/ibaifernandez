@@ -1,6 +1,6 @@
 # 1st class
 
-1. Explain the differences amongs a code editor and a IDE?
+1. Explain the differences among a code editor and a IDE?
 
 2. Emmet Abbreviations
 
