@@ -12,16 +12,16 @@ Basically, most text editors out there allow you to store and re-use commonly us
 
 Emmet takes the snippets idea to a whole new level: you can type CSS-like expressions that can be dynamically parsed, and produce output depending on what you type in the abbreviation. Emmet is developed and optimised for web-developers whose workflow depends on HTML/XML and CSS, but can be used with programming languages too.
 
-- [Emmet's Documentation Main Page](https://docs.emmet.io/)
+-   [Emmet's Documentation Main Page](https://docs.emmet.io/)
 
-- [Emmet's Abbreviations](https://docs.emmet.io/abbreviations/)
+-   [Emmet's Abbreviations](https://docs.emmet.io/abbreviations/)
 
 3. Meta tags
 
-   - `viewport`
-   - `http-equiv`
-   - `Open Graph`
-   - `keywords, author, description`...
+    - `viewport`
+    - `http-equiv`
+    - `Open Graph`
+    - `keywords, author, description`...
 
 4. Is it necessary to identify as many HTML tags with an `id`?
 
@@ -29,11 +29,11 @@ Emmet takes the snippets idea to a whole new level: you can type CSS-like expres
 
 6. How important is to use every single HTML according to their specific use?
 
-   - Example: is it necessary to put every single `img` tag into a `figure` tag?
+    - Example: is it necessary to put every single `img` tag into a `figure` tag?
 
 7. What is ARIA?
 
-   - **ARIA**, also known as **WAI-ARIA**, stands for **_Accessible Rich Internet Applications_**. ARIA defines a variety of markup extensions, usually HTML5 attributes, that can be added to elements to give screen readers more information about the element and help visually-impaired users better grasp what’s happening on the webpage.
+    - **ARIA**, also known as **WAI-ARIA**, stands for **_Accessible Rich Internet Applications_**. ARIA defines a variety of markup extensions, usually HTML5 attributes, that can be added to elements to give screen readers more information about the element and help visually-impaired users better grasp what’s happening on the webpage.
 
 8. What are YAML/YML files and what are they used for?
 
@@ -51,9 +51,9 @@ The structure of a YAML file is a map or a list.
 
 Maps allow you to associate key-value pairs. Each key must be unique, and the order doesn't matter. Think of a Python dictionary or a variable assignment in a Bash script.
 
-- [More on YAML](https://www.redhat.com/en/topics/automation/what-is-yaml)
+-   [More on YAML](https://www.redhat.com/en/topics/automation/what-is-yaml)
 
-- [YAML sintaxis in One Youtube Video](https://www.youtube.com/watch?v=cdLNKUoMc6c)
+-   [YAML sintaxis in One Youtube Video](https://www.youtube.com/watch?v=cdLNKUoMc6c)
 
 ---
 
@@ -63,16 +63,16 @@ Maps allow you to associate key-value pairs. Each key must be unique, and the or
 
 2. Can the order of CSS attributes affect the final result?
 
-- Example: If I use `flex-direction: column;` before `display:flex`, will I get the same result as if I use `display:flex` and then `flex-direction: column`?
+-   Example: If I use `flex-direction: column;` before `display:flex`, will I get the same result as if I use `display:flex` and then `flex-direction: column`?
 
 3. How is the most proper way to organize all different CSS selectors in a stylesheet?
 
-- Example:
-  - 1st - Tags
-  - 2nd - IDs
-  - 3rd - Classes
-  - 4th - Media Queries
-  - 5th - ...
+-   Example:
+    -   1st - Tags
+    -   2nd - IDs
+    -   3rd - Classes
+    -   4th - Media Queries
+    -   5th - ...
 
 ---
 
@@ -80,14 +80,14 @@ Maps allow you to associate key-value pairs. Each key must be unique, and the or
 
 1. How to change the font-size in Bootstrap without creating a parallel stylesheet?
 
-   - [Answer](https://getbootstrap.com/docs/5.0/utilities/text/)
+    - [Answer](https://getbootstrap.com/docs/5.0/utilities/text/)
 
 2. Which are the differences among...
 
-   - \*.css
-   - \*.scss
-   - \*.min.css
-   - \*.min.js
+    - \*.css
+    - \*.scss
+    - \*.min.css
+    - \*.min.js
 
 3. Are a library and a framework the same thing?
 
@@ -104,3 +104,26 @@ Maps allow you to associate key-value pairs. Each key must be unique, and the or
 # 4th class
 
 1. In the Command Line, what's the difference among `-R` and `-r`?
+
+---
+
+# 5th class
+
+## Apuntes de Sebastián Cardona
+
+`git checkout “index.html”` => reestablecer al ultimo commit realizado.
+`git commit -a -m "Reorganized project"` => add y commit en una sola line, solo funciona con archivo trackeados.
+`git merge my_version` => combinar cambios en styles con main.
+
+## Pruebas con Alexis Peña
+
+`git init`= Convertir un directorio local en un repositorio local de GIT.
+`git remote add origin XXX` = Conecta a un remoto (y añade un repo local con el nombre **origin**) desde la dirección `XXX`.
+`git pull origin master` = Tráete a mi repositorio local de nombre **origin** todo lo que encuentres en la **rama** `master` del repositorio remoto al que ya debería estar enganchado.
+
+---
+
+-   Vim
+-   Accesibility
+-   [Command Line](https://cmdchallenge.com/)
+-   [srcset](https://cssworkout.guide/2019/07/03/exercise-4-adjusting-image-screen-resolution-with-srcset/)
