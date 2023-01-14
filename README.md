@@ -3,17 +3,19 @@
 ## Personal Data
 
 -   Name: Ibai Fernández
--   Age: 35
+-   Birth Year: 1985
 -   Nationality: Spanish
--   Residence: Quito, Ecuador (since 2014)
+-   Residence: Ecuador (since 2014)
 
 ## Academic Background
 
 -   Audiovisual Communication
 -   Intercultural Communication
--   Filmmaking
--   Acting
--   Marketing
+-   Acting & Filmmaking
+-   Design Thinking
+-   Marketing & Digital Marketing
+-   Spanish and Spanish Literature
+-   Spanish and Spanish Literature
 -   Teaching
 
 ## Entrepreneurship
@@ -21,13 +23,14 @@
 -   [AGLAYA](https://aglaya.biz), marketing agency
 -   [Andariega](https://andariega.store), artisanal craftmanship
 -   [Índika](https://indika.ec), most marvelous kombucha
+-   [Chankete](https://chankete.com), Spanish restaurant in Ecuador
 
 ## Goals
 
--   Become a professional front-end developer
--   Traveling
--   Writing novels
--   Making movies
+-   Become a professional full-stack developer
+-   Living a digital nomad's life
+-   Writing many things which are worth reading
+-   Making full-length films (at least one!)
 
 ## Contact
 
@@ -36,7 +39,8 @@
 ## Social Media
 
 -   [Twitter](https://twitter.com/IbaiFernandezEC)
--   [Facebook](https://twitter.com/IbaiFernandezEC)
--   [LinkedIn](https://twitter.com/IbaiFernandezEC)
--   [Instagram](https://twitter.com/IbaiFernandezEC)
--   [Youtube](https://www.youtube.com/channel/UCJQHmRknbrALtBupU4Is9pg)
+-   [Facebook](https://facebook.com/IbaiFernandezEC)
+-   [LinkedIn](https://linkedin.com/in/ibaifernandez)
+-   [Instagram](https://instagram.com/IbaiFernandezEC)
+-   [Youtube](https://www.youtube.com/@The-IF-Show)
+-   GitHub: You're already here!
