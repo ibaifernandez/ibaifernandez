@@ -43,8 +43,3 @@
 ### Lo peor
 
 #### Carencias y necesidades paralelas
-
-- Vim
-- Accesibility
-- [Command Line](https://cmdchallenge.com/)
-- [srcset](https://cssworkout.guide/2019/07/03/exercise-4-adjusting-image-screen-resolution-with-srcset/)
