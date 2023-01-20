@@ -2,7 +2,7 @@
 
 Practicing the setup of a web project with WebPack, some difficulties may be met in the process of configuration at its earliest stage.
 
-## 1. The structure of the project
+## 1. The structure of the project
 
 I have a brand new project folder by the name of `card-generator-webpack`. The structure of that folder is as follows:
 
@@ -15,7 +15,7 @@ I have a brand new project folder by the name of `card-generator-webpack`. The s
       |  |__ styles.css
       |__ README.md
 
-# 2. Initializing WebPack
+## 2. Initializing WebPack
 
 The first two commands which I run are `npm init -y` and `npm install webpack webpack-cli --save-dev`. I do so at the root of my project via Terminal. Once I've done it, the structure of my project looks like so:
 
