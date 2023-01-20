@@ -270,7 +270,7 @@ Providing the mode configuration option tells webpack to use its built-in optimi
 
 `string = 'production': 'none' | 'development' | 'production'`
 
-## Usage
+## Usage
 
 Provide the `mode` option in the config...
 
