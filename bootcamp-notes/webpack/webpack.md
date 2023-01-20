@@ -248,7 +248,7 @@ Thanks!
 
 ### Conclusions
 
-## 4. Configuring the `mode``
+## 4. Configuring the `mode`
 
 By default, Webpack runs in _production_ mode. We will notice it once we run `npm run build` and read on the Terminal's output this:
 
