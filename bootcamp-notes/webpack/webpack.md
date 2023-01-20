@@ -1,4 +1,4 @@
-# Dealing with issues at early stages of WebPack set up
+# WebPack SetUp
 
 Practicing the setup of a web project with WebPack, some difficulties may be met in the process of configuration at its earliest stage.
 
