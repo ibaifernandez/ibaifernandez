@@ -246,7 +246,48 @@ Now, regarding questions 5 and 6, my doubts remain, in case somebody out there 
 
 Thanks!
 
-### Conclusions
+### Conclusions (1)
+
+After all of this _struggle_, let's say that we run `npm run build` once.
+
+Our `dist` folder would be created containing one single .js file (`main.js`).
+
+Now, if we call this `main.js` in our **source** HTML file content (`<script src="../dist/main.js"></script>`), it _should_ work properly. I am italicing 'should' because, for example, if our HTML code contains inline calls to any of the functions of our original JavaScript code, those won't run—since our new `main.js` does not include any of those calls.
+
+This is, let's say that our HTML code was like so:
+
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <title>21 BlackJack</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+        <body onload="initialConfig();">
+            <div class="card">
+            <div class="card-header">
+                <div class="header-symbol"></div>
+                </div>
+            <div class="card-body">
+                <div class="body-symbol"></div>
+            </div>
+            <div class="card-footer">
+                <div class="footer-symbol"></div>
+            </div>
+            </div>
+            <div id="button-div">
+            <button class="button" onclick="initialConfig();">Click me</button>
+            </div>
+            <script src="app.js"></script>
+        </body>
+    </html>
+
+Both script calls `<body onload="initialConfig();">`and `<button class="button" onclick="initialConfig();">Click me</button>` would not work, as our `main.js` would now read as:
+
+    (()=>{let e,o,t=["♦","♥","♠","♣"],r=["A","2","3","4","5","6","7","8","9","10","J","Q","K"];const d=document.querySelector(".header-symbol"),s=document.querySelector(".footer-symbol"),a=document.querySelector(".body-symbol"),l=()=>{e=t[Math.floor(4*Math.random())],o=r[Math.floor(13*Math.random())],d.innerText=e,s.innerText=e,a.innerText=o,"♦"===e||"♥"===e?(d.classList.add("red"),s.classList.add("red"),a.classList.add("red")):(d.classList.remove("red"),s.classList.remove("red"),a.classList.remove("red"))};window.onload=l(),document.querySelector(".button").addEventListener("click",l)})();
+
+Therefore, if we have those functions called in our HTML code as it points to `<script src="../dist/main.js"></script>`, there's no way they would be found in our `main.js` file, as we can see the code above. What we could do instead would be to create the source .js file with _Event Listeners_ functions which produced the desired effects, and then packing up that source file using `npm run build` in a normal manner in order to have those _Event Listeners_ functions compiled into the final output `main.js` file.
 
 ## 4. Configuring the `mode`
 
@@ -417,6 +458,7 @@ AS many options as we want to use, we will place them as an object within the ca
         new HtmlWebpackPlugin({
             title: "Webpack Test",
             filename: "my-index.html",
+            template: "./src/index.html",
             favicon: "./src/assets/img/favicon.jpeg",
         }),
     ],
@@ -428,11 +470,13 @@ In this example:
 
 -   `filename` gives us the chance to rename the output HTML file.
 
+-   `template` will drag all the content of our source HTML file.
+
 -   `favicon` allows us to give a path where to find (and drag to the output) our favicon.
 
 If we now run `npm run build`, we will see two things:
 
-1. A `my-index.html` has been created. Its content reflects the given title and the tag of the favicon:
+1. A `my-index.html`file has been created. Its content reflects the given title and the tag of the favicon:
 
 ```
     ...
@@ -490,3 +534,7 @@ This way, no matter how crowded our `dist` folder is, we will end up with the la
         |__ package-lock.json
         |__ package.json
         |__ README.md
+
+## 3. Meeting the second issue
+
+At this point, we should
