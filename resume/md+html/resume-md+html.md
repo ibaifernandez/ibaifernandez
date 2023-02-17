@@ -34,7 +34,9 @@ always comes in quite handy).
 
 <div style="column-count:2; column-gap:60px; ">
 
-<h2 style="margin-bottom:-15px;padding-bottom:0;border:none;">Goals & Dreams</h2>
+<h2 style="margin-bottom:-15px;padding-bottom:0;border:none;">Goals</h2>
+
+<small style="display:block;margin-bottom:25px;">(and Dreams)</small>
 
 -   Develop a career as full-stack developer
 -   Living a digital nomad's life
@@ -43,7 +45,9 @@ always comes in quite handy).
 -   Recording my own rock'n'roll album
 -   Publishing my own app
 
-<h2 style="margin:0 0 -15px;padding:40px 0 0 0;border:none;">Academic Background (in a nutshell)</h2>
+<h2 style="margin:0 0 -15px;padding:40px 0 0 0;border:none;">Academic Background</h2>
+
+<small style="display:block;padding-left:0px;margin-bottom:20px;">(in a nutshell)</small>
 
 -   Full-Stack Development
 -   Audiovisual & Intercultural Communication
@@ -61,13 +65,13 @@ always comes in quite handy).
 
 <h3 style="font-size:24px;">AGLAYA · Digital Marketing & Innovation</h3>
 
-<span style="font-weight:bold;border-left:5px lightgrey solid; padding:5px 15px;">Project & Accounts Manager</span><span style="padding-left:50px;"> — Jul, 2019 - Jan, 2023</span>
+<span style="font-weight:bold;border-left:5px lightgrey solid; padding:5px 15px;">Project & Accounts Manager</span><span style="padding-left:50px;">Jul, 2019 - Jan, 2023</span>
 
 <p style="padding-right:130px;">Marketing agency specialized in the implementation of marketing, communication and creativity strategies applied to the optimization of businesses of any size.</p>
 
 <div style="border:1px solid black;padding:10px;">
 
-#### **Tasks & Responsibilities**
+<div style="text-align:center;font-weight:bold; margin-bottom:25px;">Tasks & Responsibilities</div>
 
 <div style="column-count:2; column-gap:60px">
 
