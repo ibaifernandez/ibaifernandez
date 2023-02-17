@@ -61,7 +61,7 @@ always comes in quite handy).
 
 <h3 style="font-size:24px;">AGLAYA · Digital Marketing & Innovation</h3>
 
-<span style="font-weight:bold;border-left:5px lightgrey solid; padding:5px 15px;">Project & Accounts Manager</span><span style="padding-left:50px;"> — Jul, 2019 - Jan, 2023</span>
+<span style="font-weight:bold;border-left:5px lightgrey solid; padding:5px 15px;">Project & Accounts Manager</span><span style="padding-left:50px;"> || Jul, 2019 - Jan, 2023</span>
 
 <p style="padding-right:130px;">Marketing agency specialized in the implementation of marketing, communication and creativity strategies applied to the optimization of businesses of any size.</p>
 
@@ -137,9 +137,11 @@ always comes in quite handy).
 <div>
     <span style="font-weight:bold;border-left:5px lightgrey solid; padding:5px 15px;">Marketing Manager</span> <span style="padding-left:50px;">Jun, 2018 - Jul, 2019</span>
 </div>
+
 <div>
     <span style="font-weight:bold;border-left:5px lightgrey solid; padding:5px 15px;">MKT & Comms Director</span> <span style="padding-left:50px;">Jun, 2016 - Jun, 2018</span>
 </div>
+
 <div>
     <span style="font-weight:bold;border-left:5px lightgrey solid; padding:5px 15px;">Creative Director</span> <span style="padding-left:50px;">Feb, 2016 - Jun, 2016</span>
 </div>
