@@ -219,21 +219,15 @@ always comes in quite handy).
 
 <img style="width:100px; height:auto; margin:0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/4GeeksAcademy.jpg" />
 
-<div style="border-left:5px lightgray solid;padding-left:25px;">
+### Full-Stack Certificate
 
-<h3>Full-Stack Certificate</h3>
-
-<span>4Geeks Academy</span> <span style="padding-left:50px;"> Dec, 2022 - Apr, 2023</span>
-
-</div>
+> 4Geeks Academy
+>
+> Dec, 2022 - Apr, 2023
 
 <p style="padding-right:110px;"><strong>4Geeks Academy</strong> is the place where developers grow and thrive. Licensed by the USA F. Dep. of Education. Chosen as one of the top 35 bootcamps of the world and top coding bootcamp in Miami according to SwitchUp. Recognized as the top 10 coding bootcamps in the United States according to Newsweek.</p>
 
-<div style="border:1px solid black;padding:10px;">
-
-<div style="text-align:center;font-weight:bold; margin-bottom:25px;">Fields of study</div>
-
-<div style="column-count:2; column-gap:60px">
+#### **Fields of study**
 
 -   HTML
 -   CSS
@@ -250,10 +244,6 @@ always comes in quite handy).
 -   React
 -   SQL
 -   Python
-
-</div>
-
-</div>
 
 ---
 
