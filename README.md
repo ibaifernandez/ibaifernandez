@@ -59,7 +59,9 @@ always comes in quite handy).
 
 <h3 style="font-size:24px;">AGLAYA · Digital Marketing & Innovation</h3>
 
-> Project & Accounts Manager || Jul, 2019 - Jan, 2023
+> Project & Accounts Manager
+>
+> Jul, 2019 - Jan, 2023
 
 <p style="padding-right:130px;">Marketing agency specialized in the implementation of marketing, communication and creativity strategies applied to the optimization of businesses of any size.</p>
 
@@ -163,7 +165,9 @@ always comes in quite handy).
 
 <h3 style="font-size:24px;">Elm St. Productions</h3>
 
-> Founder || May, 2008 - Feb, 2016</span>
+> Founder
+>
+> May, 2008 - Feb, 2016</span>
 
 <p style="padding-right:110px;">Creative laboratory run by professionals who are experts in graphic design, photography, communication, advertising, film and television, writing, musical composition, and audiovisual production.</p>
 
@@ -178,23 +182,17 @@ always comes in quite handy).
 
 <h3 style="font-size:24px;">teleSUR English</h3>
 
-<span style="font-weight:bold;border-left:5px lightgrey solid; padding:5px 15px;">Audiovisual Producer</span> <span style="padding-left:50px;">May, 2014 - May, 2015</span>
+> Audiovisual Producer
+>
+> May, 2014 - May, 2015
 
 <p style="padding-right:110px;">teleSUR English is an alternative representation for world news focused on the people, the common citizens, and their stories, generally untold by traditonal media.</p>
 
-<div style="border:1px solid black;padding:10px;">
-
-<div style="text-align:center;font-weight:bold; margin-bottom:25px;">Tasks & Responsibilities</div>
-
-<div style="column-count:2; column-gap:60px;">
+#### **Tasks & Responsibilities**
 
 -   Digital Content Production: Documentary pieces, Newscasts, Late Night format
 -   Production Studio Management
 -   Shooting Crew Management
-
-</div>
-
-</div>
 
 ---
 
