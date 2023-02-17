@@ -200,26 +200,20 @@ always comes in quite handy).
 
 <h3 style="font-size:24px;">LaSoga Films</h3>
 
-<span style="font-weight:bold;border-left:5px lightgrey solid; padding:5px 15px;">Camera Crew</span> <span style="padding-left:50px;">November, 2011</span>
+> Camera Crew
+>
+> November, 2011
 
 <p style="padding-right:110px;"><strong>LaSoga Films</strong> is a film production company created in 2010 by Cristina Bodelón, Jaime Otero Romaní and Nacho de Vicente, with the aim of telling stories that move the viewer, always made with the highest technical quality.</p>
 
 <p style="padding-right:110px;"><em>The Common Enemy</em> is a documentary in the style of a political thriller about the first elections in the country that started the Arab Spring. After 23 years of cruel and corrupt dictatorship, the Tunisian people managed to overthrow the government of dictator Ben Ali, starting the Arab Spring. This fact is now echoing in the minds of Tunisians as they prepare for a crucial election in the country's history.</p>
 
-<div style="border:1px solid black;padding:10px;">
-
-<div style="text-align:center;font-weight:bold; margin-bottom:25px;">Tasks & Responsibilities</div>
-
-<div style="column-count:2; column-gap:60px;">
+#### **Tasks & Responsibilities**
 
 -   Equipment Maintenance
 -   Camera Operations
 -   Direction of Photography
 -   Carrying interviews
-
-</div>
-
-</div>
 
 <h2 style="margin-top:50px;">Academic Experience</h2>
 
