@@ -135,7 +135,9 @@ always comes in quite handy).
 <h3 style="font-size:24px;">NIC.ec</h3>
 
 Marketing Manager || Jun, 2018 - Jul, 2019
+
 MKT & Comms Director || Jun, 2016 - Jun, 2018
+
 Creative Director || Feb, 2016 - Jun, 2016
 
 <p style="padding-right:110px;">NIC.ec is the company designated by EcuadorDomains, the only company authorized by ICANN as provider of the territorial domain .ec, for the administration of such ccTLD.</p>
