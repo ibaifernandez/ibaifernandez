@@ -364,7 +364,7 @@ always comes in quite handy).
 
 <p style="margin-top:30px; padding-right:120px"><strong>Media Production and Management</strong> involves the studdy of the planning, scheduling, filming, editing, and commercialization of audiovisual products. Everything that working behind the scenes entails in video, radio, television, and movies.</p>
 
-#### **Fields of study**
+#### **Fields of study**
 
 -   TV Production
 -   Media Analysis and Criticism
