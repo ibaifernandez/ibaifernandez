@@ -408,8 +408,6 @@ always comes in quite handy).
 -   Analysis of Educational Practice
 -   Organization of Interventional Aid
 
----
-
 ## Languages
 
 -   Spanish · Native
