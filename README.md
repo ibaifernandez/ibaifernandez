@@ -356,7 +356,7 @@ always comes in quite handy).
 
 <img style="width:100px; height:auto; margin:0 0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/Missouri-State-University.jpg" />
 
-### ExEd in Production and Media Management
+### ExEd in Production and Media Management
 
 > Missouri State University (Springfield, MO, USA)
 >
