@@ -32,9 +32,7 @@ Used to working outside the typical workdays, the strongest parts of my skill se
 project managing (both planning and decision making), and leadership (for which a strong sense of communication
 always comes in quite handy).
 
-<div style="column-count:2; column-gap:60px; ">
-
-<h2 style="margin-bottom:-15px;padding-bottom:0;border:none;">Goals & Dreams</h2>
+## Goals & Dreams
 
 -   Develop a career as full-stack developer
 -   Living a digital nomad's life
@@ -43,7 +41,7 @@ always comes in quite handy).
 -   Recording my own rock'n'roll album
 -   Publishing my own app
 
-<h2 style="margin:0 0 -15px;padding:40px 0 0 0;border:none;">Academic Background (in a nutshell)</h2>
+## Academic Background (in a nutshell)
 
 -   Full-Stack Development
 -   Audiovisual & Intercultural Communication
@@ -68,8 +66,6 @@ always comes in quite handy).
 <div style="border:1px solid black;padding:10px;">
 
 #### **Tasks & Responsibilities**
-
-<div style="column-count:2; column-gap:60px">
 
 -   **Account and project management**
 
@@ -144,11 +140,7 @@ always comes in quite handy).
 
 <p style="padding-right:110px;">NIC.ec has 18 years of operation, more than 45,000 nationally and internationally active domains and 1,000 more activated monthly. NIC.ec not only provides all commercial domain names, but also government, educational, military and financial names, among many others.</p>
 
-<div style="border:1px solid black;padding:10px;">
-
-<div style="text-align:center;font-weight:bold; margin-bottom:25px;">Tasks & Responsibilities</div>
-
-<div style="column-count:2; column-gap:60px">
+#### **Tasks & Responsibilities**
 
 -   Campaign Planning
 -   Production Planning
