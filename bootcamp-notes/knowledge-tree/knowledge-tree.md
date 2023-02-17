@@ -1,0 +1,48 @@
+# Knowledge Tree
+
+-   HTML
+-   CSS
+    -   Bootstrap
+    -   Saas
+    -   Tailwind
+-   CLI
+-   GitFlow
+    -   Git
+    -   GitHub
+-   JS
+    -   DOM
+-   JEST Testing Units
+-   Librerías y frameworks (todavía sigo sin entender la diferencia entre las unas y los otros)
+    -   Webpack
+    -   Node.js
+        -   NPM
+    -   Yarn
+    -   Learnpack
+-   React (¿ReactJS?)
+    -   Import / Export
+    -   Components & Props
+    -   Hooks
+        -   useState
+        -   useEffect
+            -   Controlled Inputs
+            -   APIs
+                -   Fetch
+                -   Async/Await
+                -   REST APIs
+                -   RESTful APIs (?)
+                -   Redux (?)
+        -   useContext
+    -   React Router
+        -   useParams()
+        -   `<Outlet />`
+    -   React Flux (?)
+    -   Styled Components
+-   Bases de datos
+    -   SQL
+    -   Python
+        -   SQL ALchemy (¿librería?)
+-   Herramientas (no se me ocurre una palabra mejor)
+    -   Linterns
+    -   Emmet Abbreviations
+    -   Postman
+    -   QuickDBD
