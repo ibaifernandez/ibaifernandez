@@ -274,7 +274,7 @@ always comes in quite handy).
 
 <img style="width:100px; height:auto; margin:0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/MIT.jpg" />
 
-### ExEd in Design Thinking
+### ExEd in Design Thinking
 
 > Massachusetts Institute of Technology
 >
