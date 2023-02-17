@@ -421,23 +421,25 @@ always comes in quite handy).
 
 <img style="width:100px; height:auto; margin:0 0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/Andariega.jpg" />
 
+> Mar, 2016 - Present
+
 ### Andariega Store
 
-> 2016 - Present
->
-> Crafts & design workshop focused on customization and exclusivity.
+Crafts & design workshop focused on customization and exclusivity.
 
 [![Web](https://img.shields.io/badge/_-Andariega_Store-3489AA?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://andariega.store)
 
--   Kombutxa Índika
+---
 
-    <!-- role: Founder & Owner
-    time: 2018 - Present
-    company: Kombutxa Índika
-    company_logo: https://ibaifernandez.com/wp-content/uploads/2022/12/Kombutxa-Indika.jpg
-    details: |
+<img style="width:100px; height:auto; margin:0 0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/Kombutxa-Indika.jpg" />
+
+> Aug, 2018 - Present
+
+### Kombutxa Índika
+
     Best kombucha ever brewed. 20 times as alcoholic as any other kombutxa without the sour taste.
-    - Website: https://www.indika.ec -->
+
+[![Web](https://img.shields.io/badge/_-Kombutxa_Indika-3489AA?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://indika.ec)
 
 -   Un final para su final
 
