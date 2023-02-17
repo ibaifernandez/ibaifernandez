@@ -286,7 +286,7 @@ always comes in quite handy).
 
 <img style="width:100px; height:auto; margin:0 0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/Universidad-de-Malaga.jpg" />
 
-### BA in Audiovisual Communication
+### BA in Audiovisual Communication
 
 > Universidad de Málaga (Málaga, Spain)
 >
