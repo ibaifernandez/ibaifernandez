@@ -249,21 +249,15 @@ always comes in quite handy).
 
 <img style="width:100px; height:auto; margin:0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/UEES.jpg" />
 
-<div style="border-left:5px lightgray solid;padding-left:25px;">
+### ExEd in Digital Marketing
 
-<h3>ExEd in Digital Marketing</h3>
-
-<span>Universidad de Especialidades del Espíritu Santo (Guayaquil, Ecuador)</span> <span style="padding-left:50px;"> 2018</span>
-
-</div>
+> Universidad de Especialidades del Espíritu Santo (Guayaquil, Ecuador)
+>
+> 2018
 
 <p style="padding-right:110px;">The goal of the <strong>Digital Marketing ExEd Course</strong> is to create effective, cutting-edge professionals who are able to sell a company's brand, goods, and services thru a successful use of all marketing tools and strategies, including PPC, SEO, SEM, email, social media, and display advertising.</p>
 
-<div style="border:1px solid black;padding:10px;">
-
-<div style="text-align:center;font-weight:bold; margin-bottom:25px;">Fields of study</div>
-
-<div style="column-count:2; column-gap:60px">
+#### **Fields of study**
 
 -   Fundamentals of Online Marketing
 -   Introduction to SEO: Search Engines
@@ -276,21 +270,15 @@ always comes in quite handy).
 -   Marketing Plan: Branding
 -   Marketing Plan: Performance
 
-</div>
-
-</div>
-
 ---
 
 <img style="width:100px; height:auto; margin:0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/MIT.jpg" />
 
-<div style="border-left:5px lightgray solid;padding-left:25px;">
+### ExEd in Design Thinking
 
-<h3>ExEd in Design Thinking</h3>
-
-<span>Massachusetts Institute of Technology</span> <span style="padding-left:50px;"> 2018</span>
-
-</div>
+> Massachusetts Institute of Technology
+>
+> 2018
 
 <p style="padding-right:110px;"><strong>Design Thinking</strong> is a powerful approach to new product development that begins with understanding unmet customer needs. It's a human-centered design process that approaches problem-solving with understanding the user needs. Design Thinking encompasses concept development, applied creativity, prototyping, and experimentation. When design thinking approaches are applied to business, the success rate for innovation has been seen to improve substantially.</p>
 
@@ -298,21 +286,15 @@ always comes in quite handy).
 
 <img style="width:100px; height:auto; margin:0 0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/Universidad-de-Malaga.jpg" />
 
-<div style="border-left:5px lightgray solid;padding-left:25px;">
+### BA in Audiovisual Communication
 
-<h3>BA in Audiovisual Communication</h3>
-
-<span>Universidad de Málaga (Málaga, Spain)</span> <span style="padding-left:50px;">2004 - 2010</span>
-
-</div>
+> Universidad de Málaga (Málaga, Spain)
+>
+> 2004 - 2010
 
 <p style="margin-top:30px; padding-right:120px">The <strong>BA in Audiovisual Communication</strong> aims to provide general and systematic training, with the appropriate scientific and humanistic foundation, so that communication through images contemplates a reflective and critical process on its role in history and the generation of social imaginaries.</p>
 
-<div style="border:1px solid black;padding:10px;">
-
-<div style="text-align:center;font-weight:bold; margin-bottom:25px;">Fields of study</div>
-
-<div style="column-count:2; column-gap:60px">
+#### **Fields of study**
 
 -   Communication Theories
 -   Audiovisual Law
@@ -346,29 +328,19 @@ always comes in quite handy).
 -   Photography
 -   Film and Video Postproduction
 
-</div>
-
-</div>
-
 ---
 
 <img style="width:100px; height:auto; margin:0 0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/Haagse-Hogeschool.jpg" />
 
-<div style="border-left:5px lightgray solid;padding-left:25px;">
+### ExEd in Intercultural Communication
 
-<h3>ExEd in Intercultural Communication</h3>
-
-<span>Haagse Hogeschool (The Hague, Netherlands)</span> <span style="padding-left:50px;">Sep, 2006 - May, 2007</span>
-
-</div>
+> Haagse Hogeschool (The Hague, Netherlands)
+>
+> Sep, 2006 - May, 2007
 
 <p style="margin-top:30px; padding-right:120px"><strong>Intercultural Communication</strong> students study the ways in which ideas, information and data are represented, negotiated and communicated across different languages, cultures and media. They explore how language and culture affects the interpretation of messages.</p>
 
-<div style="border:1px solid black;padding:10px;">
-
-<div style="text-align:center;font-weight:bold; margin-bottom:25px;">Fields of study</div>
-
-<div style="column-count:2; column-gap:60px">
+#### **Fields of study**
 
 -   American Studies
 -   Art and Globalization
@@ -380,29 +352,19 @@ always comes in quite handy).
 -   Japanese Studies
 -   Project "Europe Calling"
 
-</div>
-
-</div>
-
 ---
 
 <img style="width:100px; height:auto; margin:0 0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/Missouri-State-University.jpg" />
 
-<div style="border-left:5px lightgray solid;padding-left:25px;">
+### ExEd in Production and Media Management
 
-<h3>ExEd in Production and Media Management</h3>
-
-<span>Missouri State University (Springfield, MO, USA)</span> <span style="padding-left:50px;">Aug, 2007 - May, 2008</span>
-
-</div>
+> Missouri State University (Springfield, MO, USA)
+>
+> Aug, 2007 - May, 2008
 
 <p style="margin-top:30px; padding-right:120px"><strong>Media Production and Management</strong> involves the studdy of the planning, scheduling, filming, editing, and commercialization of audiovisual products. Everything that working behind the scenes entails in video, radio, television, and movies.</p>
 
-<div style="border:1px solid black;padding:10px;">
-
-<div style="text-align:center;font-weight:bold; margin-bottom:25px;">Fields of study</div>
-
-<div style="column-count:2; column-gap:60px">
+#### **Fields of study**
 
 -   TV Production
 -   Media Analysis and Criticism
@@ -416,31 +378,21 @@ always comes in quite handy).
 -   Media Design & Production
     — Broadcast Management
 
-</div>
-
-</div>
-
-<h5 style="text-align:right;">GPA: 3.16</h5>
+##### GPA: 3.16
 
 ---
 
 <img style="width:100px; height:auto; margin:0 0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/Universidad-de-Salamanca.jpg" />
 
-<div style="border-left:5px lightgray solid;padding-left:25px;">
+### Master's Degree in Learning Disabilities - Spanish Language and Literature
 
-<h3>Master's Degree in Learning Disabilities - Spanish Language and Literature</h3>
-
-<span>Universidad de Salamanca (Salamanca, Spain)</span> <span style="padding-left:50px;">Sept, 2015 - Jun, 2018</span>
-
-</div>
+> Universidad de Salamanca (Salamanca, Spain)
+>
+> Sept, 2015 - Jun, 2018
 
 <p style="margin-top:30px; padding-right:120px">The <strong>Master's Degree in Learning Disabilities</strong> provides all the necessary knowledge and skills to address and understand the way in which people with learning disorders and difficulties understand the world, what is their way of processing information, feeling and perceive.</p>
 
-<div style="border:1px solid black;padding:10px;">
-
-<div style="text-align:center;font-weight:bold; margin-bottom:25px;">Fields of study</div>
-
-<div style="column-count:2; column-gap:60px">
+#### **Fields of study**
 
 -   Processes and Acquisition of Reading and Writing
 -   Difficulties in Learning to Read and Write - Assessment and Intervention
@@ -455,10 +407,6 @@ always comes in quite handy).
 -   Counseling and Intervention in Academic Centers
 -   Analysis of Educational Practice
 -   Organization of Interventional Aid
-
-</div>
-
-</div>
 
 ## Languages
 
