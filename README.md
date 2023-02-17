@@ -419,15 +419,15 @@ always comes in quite handy).
 
 <h2 style="margin-top:-10px;">Projects</h2>
 
--   Andariega Store
+![Andariega Store](https://ibaifernandez.com/wp-content/uploads/2022/12/Andariega.jpg)
 
-    <!-- role: Founder & Owner
-    time: 2016 - Present
-    company: Andariega Store
-    company_logo: https://ibaifernandez.com/wp-content/uploads/2022/12/Andariega.jpg
-    details: |
-    Crafts & design workshop focused on customization and exclusivity.
-    - Website: https://www.andariega.store -->
+### Andariega Store
+
+> 2016 - Present
+>
+> Crafts & design workshop focused on customization and exclusivity.
+
+[![Web](https://img.shields.io/badge/_-Andariega_Store-3489AA?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://andariega.store)
 
 -   Kombutxa Índika
 
