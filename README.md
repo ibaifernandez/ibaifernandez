@@ -332,7 +332,7 @@ always comes in quite handy).
 
 <img style="width:100px; height:auto; margin:0 0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/Haagse-Hogeschool.jpg" />
 
-### ExEd in Intercultural Communication
+### ExEd in Intercultural Communication
 
 > Haagse Hogeschool (The Hague, Netherlands)
 >
