@@ -441,13 +441,13 @@ Best kombucha ever brewed. 20 times as alcoholic as any other kombutxa without t
 
 [![Web](https://img.shields.io/badge/_-Kombutxa_Indika-3489AA?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://indika.ec)
 
----
+<!-- ---
 
 -   [Un final para su final](http://ibaifernandez.com/un-final-para-su-final)
 
 ---
 
--   [El oficio de escritor · Reflexiones de un escritor primerizo](https://ibaifernandez.com/el-oficio-de-escritor-vol-1/)
+-   [El oficio de escritor · Reflexiones de un escritor primerizo](https://ibaifernandez.com/el-oficio-de-escritor-vol-1/) -->
 
 ## Contact
 
