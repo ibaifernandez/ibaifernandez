@@ -419,8 +419,7 @@ always comes in quite handy).
 
 <h2 style="margin-top:-10px;">Projects</h2>
 
-<img style="width:100px; height:auto; margin:0 0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/Andariega.jpg
-" />
+<img style="width:100px; height:auto; margin:0 0 -15px; float:right;" src="https://ibaifernandez.com/wp-content/uploads/2022/12/Andariega.jpg" />
 
 ### Andariega Store
 
