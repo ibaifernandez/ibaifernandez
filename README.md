@@ -59,11 +59,9 @@ always comes in quite handy).
 
 <h3 style="font-size:24px;">AGLAYA · Digital Marketing & Innovation</h3>
 
-<span style="font-weight:bold;border-left:5px lightgrey solid; padding:5px 15px;">Project & Accounts Manager</span><span style="padding-left:50px;"> || Jul, 2019 - Jan, 2023</span>
+> Project & Accounts Manager || Jul, 2019 - Jan, 2023
 
 <p style="padding-right:130px;">Marketing agency specialized in the implementation of marketing, communication and creativity strategies applied to the optimization of businesses of any size.</p>
-
-<div style="border:1px solid black;padding:10px;">
 
 #### **Tasks & Responsibilities**
 
@@ -117,8 +115,6 @@ always comes in quite handy).
 
 </div>
 
-</div>
-
 **Media**
 
 [![AGLAYA's Website](https://img.shields.io/badge/_-AGLAYA's_website-ED484D?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=101010)](https://aglaya.biz)
@@ -130,11 +126,11 @@ always comes in quite handy).
 
 <h3 style="font-size:24px;">NIC.ec</h3>
 
--   Marketing Manager || Jun, 2018 - Jul, 2019
-
--   MKT & Comms Director || Jun, 2016 - Jun, 2018
-
--   Creative Director || Feb, 2016 - Jun, 2016
+> -   Marketing Manager || Jun, 2018 - Jul, 2019
+>
+> -   MKT & Comms Director || Jun, 2016 - Jun, 2018
+>
+> -   Creative Director || Feb, 2016 - Jun, 2016
 
 <p style="padding-right:110px;">NIC.ec is the company designated by EcuadorDomains, the only company authorized by ICANN as provider of the territorial domain .ec, for the administration of such ccTLD.</p>
 
@@ -167,7 +163,7 @@ always comes in quite handy).
 
 <h3 style="font-size:24px;">Elm St. Productions</h3>
 
-<span style="font-weight:bold;border-left:5px lightgrey solid; padding:5px 15px;">Founder</span> <span style="padding-left:50px;">May, 2008 - Feb, 2016</span>
+> Founder || May, 2008 - Feb, 2016</span>
 
 <p style="padding-right:110px;">Creative laboratory run by professionals who are experts in graphic design, photography, communication, advertising, film and television, writing, musical composition, and audiovisual production.</p>
 
