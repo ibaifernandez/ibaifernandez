@@ -227,7 +227,7 @@ always comes in quite handy).
 
 <p style="padding-right:110px;"><strong>4Geeks Academy</strong> is the place where developers grow and thrive. Licensed by the USA F. Dep. of Education. Chosen as one of the top 35 bootcamps of the world and top coding bootcamp in Miami according to SwitchUp. Recognized as the top 10 coding bootcamps in the United States according to Newsweek.</p>
 
-#### **Fields of study**
+#### **Fields of study**
 
 -   HTML
 -   CSS
