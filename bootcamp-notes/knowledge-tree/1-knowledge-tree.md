@@ -5,6 +5,7 @@
     -   Bootstrap
     -   Saas
     -   Tailwind
+    -   Styled Components
 -   CLI
 -   GitFlow
     -   Git
@@ -28,15 +29,14 @@
             -   APIs
                 -   Fetch
                 -   Async/Await
-                -   REST APIs
-                -   RESTful APIs (?)
-                -   Redux (?)
+                -   REST APIs: el estilo de arquitectura para diseñar servicios web.
+                    -   RESTful APIs: implementación de esa arquitectura.
         -   useContext
     -   React Router
         -   useParams()
         -   `<Outlet />`
     -   React Flux (?)
-    -   Styled Components
+        -   Redux (?)
 -   Bases de datos
     -   SQL
     -   Python
