@@ -58,3 +58,11 @@
 [![Youtube](https://img.shields.io/badge/_-The_IF_Show-C4302B?style=for-the-badge&logo=Youtube&logoColor=white&labelColor=101010)](https://youtube.com/@The-IF-Show)
 [![StackOverflow](https://img.shields.io/badge/_-ibai--fern%C3%A1ndez-C4302B?style=for-the-badge&logo=stackoverflow&logoColor=white&labelColor=101010)](https://stackoverflow.com/users/20425982/ibai-fern%C3%A1ndez)
 [![Github](https://img.shields.io/badge/_-ibaifernandez-333?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://stackoverflow.com/users/20425982/ibai-fern%C3%A1ndez)
+
+## Let's share some music!
+
+<br>
+
+<div style="display:flex;justify-content:center;">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ibai600&cover_image=true&theme=default&show_offline=false&background_color=042D5E&interchange=true&bar_color=53b14f&bar_color_cover=false" />
+</div>
