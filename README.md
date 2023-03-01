@@ -36,6 +36,7 @@
 ![Postman](https://img.shields.io/badge/_-Postman-3489AA?style=for-the-badge&logo=postman&logoColor=white&labelColor=101010)
 ![Git](https://img.shields.io/badge/_-Git-3489AA?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)
 ![GitHub](https://img.shields.io/badge/_-GitHub-3489AA?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)
+![VSCode](https://img.shields.io/badge/_-VSCode-3489AA?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=101010)
 ![Adobe XD](https://img.shields.io/badge/_-Adobe_XD-3489AA?style=for-the-badge&logo=adobexd&logoColor=white&labelColor=101010)
 ![Adobe Illustrator](https://img.shields.io/badge/_-Illustrator-3489AA?style=for-the-badge&logo=adobeillustrator&logoColor=white&labelColor=101010)
 ![Adobe Photoshop](https://img.shields.io/badge/_-Photoshop-3489AA?style=for-the-badge&logo=adobephotoshop&logoColor=white&labelColor=101010)
