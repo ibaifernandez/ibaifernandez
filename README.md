@@ -11,7 +11,7 @@
 
 <h2 style="margin-bottom:25px;">About me</h2>
 
-<code style="font-size:16px;line-height:18px;padding:15px;background:#042D5E;color:white;"><Hello, World! 🌎 I am Ibai Fernández, passionate about programming! 💻 /></code>
+<code align="center"><Hello, World! 🌎 I am Ibai Fernández, passionate about programming! 💻 /></code>
 
 -   🇪🇸 I am from Málaga, Spain 🇪🇸
 -   🌎 I live in Ecuador since 2014 🌎
