@@ -1,10 +1,10 @@
 ![Ibai Fernández - Full-Stack Developer](./img/profile-pics/Banner-LinkedIn-IF.jpg)
 
-<div style="display:flex;flex-direction:column;justify-content:center;">
-    <a style="display:flex;justify-content:center;" href="https://git.io/typing-svg">
+<div align="center">
+    <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Sanchez&weight=800&pause=1000&size=36&color=042D5E&width=590&height=100&lines=%F0%9F%91%8B+Hi%2C+I'm+Ibai+Fernandez+%F0%9F%91%8B" alt="Typing SVG" />
     </a>
-    <p style="text-align:center">
+    <p align="center">
         <img src="https://komarev.com/ghpvc/?username=ibaifernandez&color=103B53&label=Viewers+so+far" alt="watching_count" />
     </p>
 </div>
