@@ -1,4 +1,4 @@
-![Ibai Fernández - Full-Stack Developer](./img/profile-pics/Banner-LinkedIn-IF.jpg)
+![Ibai Fernández - Full-Stack Developer](./img/profile-pics/Banner-LinkedIn-Ibai-Fernandez.jpg)
 
 <div style="display:flex;flex-direction:column;justify-content:center;">
     <a style="display:flex;justify-content:center;" href="https://git.io/typing-svg">
