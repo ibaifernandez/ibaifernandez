@@ -722,3 +722,15 @@ Or:
 Either way, you get the same result:
 
 ![React's Example 07](../../img/react/example-7.png)
+
+## 7. **useLayoutEffect**
+
+-   Resource: [useLayoutEffect](https://beta.reactjs.org/reference/react/useLayoutEffect)
+
+`useLayoutEffect(setup, dependencies?)`
+
+Call useLayoutEffect perform the layout measurements before the browser repaints the screen:
+
+-   setup: The function with your Effect’s logic. Your setup function may also optionally return a cleanup function. Before your component is first added to the DOM, React will run your setup function. After every re-render with changed dependencies, React will first run the cleanup function (if you provided it) with the old values, and then run your setup function with the new values. Before your component is removed from the DOM, React will run your cleanup function one last time.
+
+-   optional dependencies: The list of all reactive values referenced inside of the setup code. Reactive values include props, state, and all the variables and functions declared directly inside your component body. If your linter is configured for React, it will verify that every reactive value is correctly specified as a dependency. The list of dependencies must have a constant number of items and be written inline like [dep1, dep2, dep3]. React will compare each dependency with its previous value using the Object.is comparison algorithm. If you don’t specify the dependencies at all, your Effect will re-run after every re-render of the component.

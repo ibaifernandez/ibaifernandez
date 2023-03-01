@@ -84,3 +84,11 @@ Obsérvese igualmente como los «comentarios HTML» en React no se hacen como si
 ## **5. _Blank spaces_ en React**
 
 Finalmente, cuando se quiere insertar un espacio en un archivo `.jsx`, en lugar del tradicional `&nbsp;`, se pone un espacio entre comillas y llaves (`{" "}`).
+
+## **6. SOLVED: <DIV> CANNOT APPEAR AS A DESCENDANT OF <P> (REACTJS)**
+
+-   Resource: [<DIV> CANNOT APPEAR AS A DESCENDANT OF <P>](https://www.appsloveworld.com/reactjs/100/1/div-cannot-appear-as-a-descendant-of-p)
+
+> So to fix this issue if one is using <Card.Text> you can basically use the 'as' attribute as the following <Card.Text as='div'> and this will resolve the warning because it allow a tree such as <div><div></div></div>
+
+.- via DRProgrammer
