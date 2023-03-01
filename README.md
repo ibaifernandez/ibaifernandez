@@ -11,7 +11,7 @@
 
 <h2 style="margin-bottom:25px;">About me</h2>
 
-<code style="font-size:16px;line-height:18px;padding:15px;background:#042D5E;color:white;"><Hello, World! :earth_americas: I am Ibai Fernández, passionate about programming! /></code>
+<code style="font-size:16px;line-height:18px;padding:15px;background:#042D5E;color:white;"><Hello, World! 🌎 I am Ibai Fernández, passionate about programming! 💻 /></code>
 
 <br>
 
