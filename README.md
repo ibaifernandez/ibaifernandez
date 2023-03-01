@@ -61,8 +61,6 @@
 
 ## Let's share some music!
 
-<br>
-
-<div style="display:flex;justify-content:center;">
+<div align="center">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=ibai600&cover_image=true&theme=default&show_offline=false&background_color=042D5E&interchange=true&bar_color=53b14f&bar_color_cover=false" />
 </div>
