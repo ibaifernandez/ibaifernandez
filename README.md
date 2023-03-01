@@ -16,9 +16,9 @@
 <br>
 
 -   🇪🇸 I am from Málaga, Spain 🇪🇸
--   :earth_americas: I live in Ecuador since 2014 :earth_americas:
+-   🌎 I live in Ecuador since 2014 🌎
 -   🥰 I love programming! 🥰
--   :star_struck: I like to dismantle things to put them back together (no matter how many screws go M.I.A.!) :star_struck:
+-   🤩 I like to dismantle things to put them back together (no matter how many screws go M.I.A.!) 🤩
 -   📚 🎸 🎥 I like "all things creative" —wrote books and songs, even made my own short movies! 📚 🎸 🎥
 -   :relieved: 'Why' is more important than 'how'. 'How' is more important than 'what' :relieved:
 
