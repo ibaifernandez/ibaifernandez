@@ -66,5 +66,5 @@
 </div>
 
 <div align="center">
-    <h3>Looking forward to getting in touch with you!</h3>
+    <h3>~ 😉 Looking forward to getting in touch with you! 😉 ~</h3>
 </div>
