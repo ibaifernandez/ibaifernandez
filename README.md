@@ -13,8 +13,6 @@
 
 <code style="font-size:16px;line-height:18px;padding:15px;background:#042D5E;color:white;"><Hello, World! 🌎 I am Ibai Fernández, passionate about programming! 💻 /></code>
 
-<br>
-
 -   🇪🇸 I am from Málaga, Spain 🇪🇸
 -   🌎 I live in Ecuador since 2014 🌎
 -   🥰 I love programming! 🥰
