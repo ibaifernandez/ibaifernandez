@@ -14,7 +14,7 @@
 <code><Hello, World! 🌎 I am Ibai Fernández, passionate about programming! 💻 /></code>
 
 -   🇪🇸 I am from Málaga, Spain 🇪🇸
--   🌎 I live in Ecuador since 2014 🌎
+-   🌎 I have lived in LatAm since 2014 — for 9+ years in Ecuador, and currently in Bogota, Colombia 🌎
 -   🥰 I love programming! 🥰
 -   🤩 I like to dismantle things to put them back together (no matter how many screws go M.I.A.!) 🤩
 -   📚 🎸 🎥 I like "all things creative" —wrote books and songs, even made my own short movies! 📚 🎸 🎥
