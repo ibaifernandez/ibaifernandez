@@ -14,7 +14,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ibaifernandez&color=6C63FF&label=Profile+Views&style=flat-square)](https://github.com/ibaifernandez)
 [![Mail](https://img.shields.io/badge/info%40ibaifernandez.com-6C63FF?style=flat-square&logo=minutemailer&logoColor=white)](mailto:info@ibaifernandez.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+593984038732)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+573224288532)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibaifernandez)
 
 </div>
@@ -23,7 +23,7 @@
 
 ## 🧠 Who Am I
 
-I'm **Ibai Fernándex** — a Spanish developer living between Bogotá and the future.
+I'm **Ibai Fernández** — a Spanish developer with 12 years across Latin America. Three of them in Colombia, and as of April 22 🇧🇷 Brazil is next.
 
 I don't just write code. I **orchestrate AI** to build things that matter: automations, platforms, pipelines, and products that work while I sleep. My philosophy is simple:
 
@@ -44,7 +44,7 @@ I wear three hats right now:
 | 🤖 AI Orchestration | 📧 Marketing Automation | 💻 Full-Stack Dev |
 |:---:|:---:|:---:|
 | Agents, MCP servers, n8n & Make flows | Email sequences, CRM pipelines, lead scoring | Flask · React · Astro · Python |
-| Claude, GPT, Gemini in production | Mailchimp, ActiveCampaign, HubSpot | HTML · CSS · JS · SQLite |
+| Claude, GPT, Gemini, Codex in production | Mailchimp, ActiveCampaign, HubSpot | HTML · CSS · JS · SQLite |
 | Vibe-coding: prompt → product | Analytics & conversion optimization | CI/CD, Git, deployment |
 
 </div>
@@ -58,9 +58,10 @@ I wear three hats right now:
 **AI & Automation**
 
 ![Claude](https://img.shields.io/badge/Claude-D4A574?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 **Web & Backend**
 
@@ -95,10 +96,11 @@ I wear three hats right now:
 
 | Project | What it does | Stack |
 |---|---|---|
+| 📊 **[MyBoardLFi](https://github.com/ibaifernandez/myboardlfi)** | Real-time marketing operations dashboard — live KPIs, campaign tracking, team visibility | React · Node.js · API integrations |
+| 🧠 **Business Intelligence System** | Multi-source BI panel aggregating sales, operations & market signals into executive decision views | Python · Data pipelines · Visualization |
+| ⚖️ **[Legal Reg-Tech](https://github.com/ibaifernandez/legal-reg-tech)** | Regulatory risk alert scanner — Ley 21.719 (Chile). Parses legislation changes into actionable flags | Python · AI · Automation |
+| 💳 **DebtTracker** | Personal finance tool for mapping, projecting and strategizing debt payoff across multiple creditors | Flask · SQLite · Python |
 | 🏋️ **[GymTracker](https://github.com/ibaifernandez/gymtracker)** | Local-first health ecosystem. Zero-latency tracking, 100% data sovereignty, AI-agent ready | Flask · Python · SQLite · HTML/CSS |
-| ⚖️ **[Legal Reg-Tech](https://github.com/ibaifernandez/legal-reg-tech)** | Regulatory risk alert scanner — Ley 21.719 (Chile) | Python · AI · Automation |
-| 🌐 **[ibaifernandez.com](https://github.com/ibaifernandez/ibaifernandez.com)** | Personal website — built with the future in mind | Astro · HTML · CSS |
-| 🌸 **[monicamontufar.com](https://github.com/ibaifernandez/monicamontufar.com)** | Full web presence for a public figure | Astro · Playwright · CI/CD |
 
 </div>
 
@@ -143,18 +145,12 @@ I wear three hats right now:
 ## 🐍 Contribution Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibaifernandez/ibaifernandez/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibaifernandez/ibaifernandez/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/ibaifernandez/ibaifernandez/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ibaifernandez&theme=tokyo-night&hide_border=true&bg_color=0f1117&color=a78bfa&line=6c63ff&point=a78bfa&area=true&area_color=6c63ff" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=ibaifernandez&theme=github-compact&hide_border=true" />
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ibaifernandez&theme=tokyo-night&hide_border=true&bg_color=0f1117&color=a78bfa&line=6c63ff&point=a78bfa&area=true&area_color=6c63ff" />
 </picture>
-
----
-
-## 🎧 Coding to the Beat of…
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=ibai600&cover_image=true&theme=novatorem&show_offline=false&background_color=0f1117&interchange=true&bar_color=a78bfa&bar_color_cover=false" alt="Spotify Now Playing" />
-</div>
 
 ---
 
@@ -164,14 +160,13 @@ I wear three hats right now:
 
 [![Website](https://img.shields.io/badge/ibaifernandez.com-6C63FF?style=for-the-badge&logo=safari&logoColor=white)](https://ibaifernandez.com)
 [![AGLAYA](https://img.shields.io/badge/AGLAYA_AI%C2%B7gency-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)](https://aglaya.agency)
-[![Twitter/X](https://img.shields.io/badge/@ibaifernandezec-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/IbaiFernandezEC)
 [![Instagram](https://img.shields.io/badge/@ibaifernandezec-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ibaiFernandezEC)
 [![YouTube](https://img.shields.io/badge/The_IF_Show-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@The-IF-Show)
 
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=true" alt="footer" />
 </picture>
