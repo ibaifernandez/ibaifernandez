@@ -96,9 +96,9 @@ I wear three hats right now:
 
 | Project | What it does | Stack |
 |---|---|---|
-| 📊 **[MyBoardLFi](https://github.com/ibaifernandez/myboardlfi)** | Real-time marketing operations dashboard — live KPIs, campaign tracking, team visibility | React · Node.js · API integrations |
+| 📊 **MyBoardLFi** | Real-time marketing operations dashboard — live KPIs, campaign tracking, team visibility | React · Node.js · API integrations |
 | 🧠 **Business Intelligence System** | Multi-source BI panel aggregating sales, operations & market signals into executive decision views | Python · Data pipelines · Visualization |
-| ⚖️ **[Legal Reg-Tech](https://github.com/ibaifernandez/legal-reg-tech)** | Regulatory risk alert scanner — Ley 21.719 (Chile). Parses legislation changes into actionable flags | Python · AI · Automation |
+| ⚖️ **Legal Reg-Tech** | Regulatory risk alert scanner — Ley 21.719 (Chile). Parses legislation changes into actionable flags | Python · AI · Automation |
 | 💳 **DebtTracker** | Personal finance tool for mapping, projecting and strategizing debt payoff across multiple creditors | Flask · SQLite · Python |
 | 🏋️ **[GymTracker](https://github.com/ibaifernandez/gymtracker)** | Local-first health ecosystem. Zero-latency tracking, 100% data sovereignty, AI-agent ready | Flask · Python · SQLite · HTML/CSS |
 
