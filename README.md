@@ -23,7 +23,7 @@
 
 ## 🧠 Who Am I
 
-I'm **Ibai Fernández** — a Spanish developer with 12 years across Latin America—Ecuador, Venezuela, Colombia... and as of April 22 🇧🇷 Brazil is next!
+I'm **Ibai Fernández** — a Spanish developer with 12 years across Latin America—Ecuador, Venezuela, Colombia... and now, Brazil! 🇧🇷
 
 I don't just write code. I **orchestrate AI** to build things that matter: automations, platforms, pipelines, and products that work while I sleep. My philosophy is simple:
 
